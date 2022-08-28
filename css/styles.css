@@ -316,5 +316,5 @@ ul [href="tel:+380961111111"]:focus {
 .container {
   width: 1200px;
   margin: 0 auto;
-  padding: 0px 15px 0px;
+  padding: 0 15px 0 15px;
 }
